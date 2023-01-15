@@ -1,1 +1,3 @@
-# gaming_notes_path_of_exile
+# Gaming Notes Path of Exile
+
+This repository [Wiki](../../wiki) will holds gaming notes
